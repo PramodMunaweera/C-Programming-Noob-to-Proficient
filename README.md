@@ -1,2 +1,2 @@
-# C-Programming-Noob-to-Proficient
-Welcome to "C Programming: Noob to Proficient"! This comprehensive course is designed to take you from a complete beginner to a proficient C programmer. Join us on this journey and master the fundamentals of one of the most powerful programming languages!
+# C Programming: Noob to Proficient
+Welcome to "C Programming: Noob to Proficient"! This comprehensive course is designed to take you from a complete beginner to a proficient C programmer. You'll start with the basics, covering essential concepts like data types, operators, and control structures. As you progress, you'll delve into more advanced topics such as pointers, memory management, and file handling. With practical exercises, real-world examples, and detailed explanations, this course will equip you with the skills needed to write efficient and effective C code. Join us on this journey and master the fundamentals of one of the most powerful programming languages!
