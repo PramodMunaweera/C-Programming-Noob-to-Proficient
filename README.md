@@ -21,7 +21,7 @@ Welcome to "C Programming: Noob to Proficient"! This comprehensive course is des
 - [**Conditional Statements**](01_Introduction/introduction.md)
 - [**Loops**](01_Introduction/introduction.md)
 
-### **Phase 2: Intermediate Concepts and Data Structures**
+### **Phase 2: Intermediate Concepts**
 
 ### [**04: Functions and Modular Programming**](01_Introduction/introduction.md)
 
@@ -45,7 +45,7 @@ Welcome to "C Programming: Noob to Proficient"! This comprehensive course is des
 - [**Unions**](01_Introduction/introduction.md)
 
 
-### **Phase 3: Advanced Topics and Best Practices**
+### **Phase 3: Advanced Topics, Data Structures and Algorithms**
 
 ### [**08: Dynamic Memory Allocation**](01_Introduction/introduction.md)
 
@@ -70,7 +70,7 @@ Welcome to "C Programming: Noob to Proficient"! This comprehensive course is des
 
 - [**Advanced Data Structures**](01_Introduction/introduction.md)
 
-### **Phase 4: Expert Level and Project Development**
+### **Phase 4: Expert Level**
 
 ### [**12: Advanced Concepts**](01_Introduction/introduction.md)
 

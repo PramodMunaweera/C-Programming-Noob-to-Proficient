@@ -17,7 +17,7 @@
 ## **Development Environment Setup**
 
 ## **First C Program**
-Let's start with the usual classic example, the "Hello World!" program. This simple program prints the message "Hello World!" to the console.
+Let's start with the usual classic example, the "Hello World!" program. This simple program prints the message "Hello World!" to the console. With this program we'll understand the basic structure of a C program.
 
 
 [main.c](./src/main.c)
