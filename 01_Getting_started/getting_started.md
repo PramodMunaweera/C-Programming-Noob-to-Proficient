@@ -14,7 +14,36 @@
 #   **01: Getting Started**
 ## **Introduction to C Programming**
 
+C is a general-purpose programming language developed in the early 1970s by Dennis Ritchie at Bell Labs. It's known for its efficiency, flexibility, and close-to-hardware control, low-level access to memory with a static type system making it popular for system programming, embedded systems, and developing operating systems.
+
+Key features:
+1. Low-level access to memory
+2. Simple keywords set 
+3. Fast and efficient
+4. Structured programming support
+5. Portability across different platforms
+
+C has influenced many modern programming languages and remains widely used due to its performance and reliability. It serves as a foundation for learning other languages and is essential for understanding computer architecture and systems programming.
+
 ## **Development Environment Setup**
+
+We eill be using a simple and minimal development environment without using advanced IDEs. This will help us to grab the basics of the language without interventions from advanced IDE functions. Later when we are familier with the language, we can seek the support of an IDE.
+
+This tutorial is based on a Windows development environment setup. But, you will be able to build an environment with similar function on Linux and Mac without any difficulties.
+Download and install Visual Studio Code and MinGW.
+
+**Windows :**
+
+- **IDE - Visual Studio Code :** https://code.visualstudio.com/download
+- **C Compiler - MinGW :** https://www.mingw-w64.org/downloads
+
+**Linux :**
+
+https://www.geeksforgeeks.org/setting-up-c-development-environment/
+
+**Mac :**
+
+https://www.cs.auckland.ac.nz/~paul/C/Mac/
 
 ## **First C Program**
 Let's start with the usual classic example, the "Hello World!" program. This simple program prints the message "Hello World!" to the console. With this program we'll understand the basic structure of a C program.
@@ -50,7 +79,7 @@ int main() {
 
 
 **Compiling and Executing the code**
-1. Save the code as a .c file (e.g., main.c).
+1. Save the code as a .c file (ex: main.c).
 
 2. Lets use GCC to compile the code.
 
