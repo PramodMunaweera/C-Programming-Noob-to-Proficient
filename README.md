@@ -1,2 +1,91 @@
 # C Programming: Noob to Proficient
 Welcome to "C Programming: Noob to Proficient"! This comprehensive course is designed to take you from a complete beginner to a proficient C programmer. You'll start with the basics, covering essential concepts like data types, operators, and control structures. As you progress, you'll delve into more advanced topics such as pointers, memory management, and file handling. With practical exercises, real-world examples, and detailed explanations, this course will equip you with the skills needed to write efficient and effective C code. Join us on this journey and master the fundamentals of one of the most powerful programming languages!
+
+
+### **Phase 1: Introduction to Programming Concepts and C Language Basics**
+
+### [**01: Getting Started**](./01_Getting_started/getting_started.md)
+
+- [**Introduction to C Programming**](./01_Getting_started/getting_started.md#introduction-to-c-programming)
+- [**Development Environment Setup**](./01_Getting_started/getting_started.md#development-environment-setup)
+- [**First C Program**](./01_Getting_started/getting_started.md#first-c-program)
+
+### [**02: Basic Constructs**](./02_Basic_constructs/basic_constructs.md)
+
+- [**Variables and Data Types**](01_Introduction/introduction.md)
+- [**Operators and Expressions**](01_Introduction/introduction.md)
+- [**Input and Output**](01_Introduction/introduction.md)
+
+### [**03: Control Structures**](01_Introduction/introduction.md)
+
+- [**Conditional Statements**](01_Introduction/introduction.md)
+- [**Loops**](01_Introduction/introduction.md)
+
+### **Phase 2: Intermediate Concepts and Data Structures**
+
+### [**04: Functions and Modular Programming**](01_Introduction/introduction.md)
+
+- [**Functions**](01_Introduction/introduction.md)
+- [**Recursion**](01_Introduction/introduction.md)
+
+### [**05: Arrays and Strings**](01_Introduction/introduction.md)
+
+- [**Arrays**](01_Introduction/introduction.md)
+- [**Strings**](01_Introduction/introduction.md)
+
+### [**06: Pointers**](01_Introduction/introduction.md)
+
+- [**Introduction to Pointers**](01_Introduction/introduction.md)
+- [**Pointers and Arrays**](01_Introduction/introduction.md)
+- [**Pointers and Functions**](01_Introduction/introduction.md)
+
+### [**07: Structures and Unions**](01_Introduction/introduction.md)
+
+- [**Structures**](01_Introduction/introduction.md)
+- [**Unions**](01_Introduction/introduction.md)
+
+
+### **Phase 3: Advanced Topics and Best Practices**
+
+### [**08: Dynamic Memory Allocation**](01_Introduction/introduction.md)
+
+- [**Memory Management**](01_Introduction/introduction.md)
+
+### [**09: File Handling**](01_Introduction/introduction.md)
+
+- [**File I/O**](01_Introduction/introduction.md)
+
+### [**10: Libraries and Linking**](01_Introduction/introduction.md)
+- [**Header files**](01_Introduction/introduction.md)
+- [**Shared Library**](01_Introduction/introduction.md)
+
+### [**11: Data Structures and Algorithms**](01_Introduction/introduction.md)
+
+- [**Linked Lists**](01_Introduction/introduction.md)
+- [**Stack and Queue**](01_Introduction/introduction.md)
+- [**Trees**](01_Introduction/introduction.md)
+
+- [**Sorting Algorithms**](01_Introduction/introduction.md)
+- [**Searching Algorithms**](01_Introduction/introduction.md)
+
+- [**Advanced Data Structures**](01_Introduction/introduction.md)
+
+### **Phase 4: Expert Level and Project Development**
+
+### [**12: Advanced Concepts**](01_Introduction/introduction.md)
+
+- [**Function pointers**](01_Introduction/introduction.md)
+- [**Callbacks**](01_Introduction/introduction.md)
+
+### [**13: Preprocessor and Macros**](01_Introduction/introduction.md)
+
+- [**Preprocessor Directives**](01_Introduction/introduction.md)
+- [**Macros**](01_Introduction/introduction.md)
+
+### [**14: Concurrency**](01_Introduction/introduction.md)
+
+- [**Multithreading**](01_Introduction/introduction.md)
+
+### [**15: Networking**](01_Introduction/introduction.md)
+
+- [**Socket Programming**](01_Introduction/introduction.md)
