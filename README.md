@@ -10,28 +10,34 @@ Welcome to "C Programming: Noob to Proficient"! This comprehensive course is des
 - [**Development Environment Setup**](./01_Getting_started/getting_started.md#development-environment-setup)
 - [**First C Program**](./01_Getting_started/getting_started.md#first-c-program)
 
+
 ### [**02: Basic Constructs**](./02_Basic_constructs/basic_constructs.md)
 
-- [**Variables and Data Types**](01_Introduction/introduction.md)
-- [**Operators and Expressions**](01_Introduction/introduction.md)
-- [**Input and Output**](01_Introduction/introduction.md)
+- [**Variables and Data Types**](./02_Basic_constructs/basic_constructs.md#variables-and-data-types)
+- [**Operators and Expressions**](./02_Basic_constructs/basic_constructs.md#operators-and-expressions)
+- [**Input and Output**](./02_Basic_constructs/basic_constructs.md#input-and-output)
 
-### [**03: Control Structures**](01_Introduction/introduction.md)
 
-- [**Conditional Statements**](01_Introduction/introduction.md)
-- [**Loops**](01_Introduction/introduction.md)
+### [**03: Control Structures**](./03_Control_structures/control_structures.md)
+
+- [**Conditional Statements**](./03_Control_structures/control_structures.md#conditional-statements)
+- [**Loops**](./03_Control_structures/control_structures.md#loops)
+
 
 ### **Phase 2: Intermediate Concepts**
 
-### [**04: Functions and Modular Programming**](01_Introduction/introduction.md)
 
-- [**Functions**](01_Introduction/introduction.md)
-- [**Recursion**](01_Introduction/introduction.md)
+### [**04: Functions and Modular Programming**](./04_Functions_and_modular_programming/functions_and_modular_programming.md)
+
+- [**Functions**](./04_Functions_and_modular_programming/functions_and_modular_programming.md#functions)
+- [**Recursion**](./04_Functions_and_modular_programming/functions_and_modular_programming.md#recursion)
+
 
 ### [**05: Arrays and Strings**](01_Introduction/introduction.md)
 
 - [**Arrays**](01_Introduction/introduction.md)
 - [**Strings**](01_Introduction/introduction.md)
+
 
 ### [**06: Pointers**](01_Introduction/introduction.md)
 
