@@ -45,6 +45,10 @@ https://www.geeksforgeeks.org/setting-up-c-development-environment/
 
 https://www.cs.auckland.ac.nz/~paul/C/Mac/
 
+**VSCode Extentions**
+
+We'll just install the 'C/C++ Extension Pack by Microsoft' to get C language syntax highlighting and IntelliSense support.
+
 ## **First C Program**
 Let's start with the usual classic example, the "Hello World!" program. This simple program prints the message "Hello World!" to the console. With this program we'll understand the basic structure of a C program.
 
@@ -53,7 +57,12 @@ Let's start with the usual classic example, the "Hello World!" program. This sim
 ```C title="main.c"
 #include <stdio.h>
 
+// This is a single line comment
 int main() {
+    /*
+    This is a multi
+    line comment.
+    */
     printf("Hello World!\n");
     return 0;
 }
