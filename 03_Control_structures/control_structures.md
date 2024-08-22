@@ -1,4 +1,6 @@
-[**🏠 Home**](../README.md) | [**◀️ Basic Constructs**](../02_Basic_constructs/basic_constructs.md) | [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ Basic Constructs**](../02_Basic_constructs/basic_constructs.md) | [**Functions and Modular Programming ▶️**](../04_Functions_and_modular_programming/functions_and_modular_programming.md)
+
+
 
 - ### [**03: Control Structures**](#03-control-structures-1)
 
@@ -263,4 +265,5 @@ int main() {
 This program demonstrates `continue` by skipping 3 and `break` by stopping at 8.
 
 
-[**🏠 Home**](../README.md) | [**◀️ Basic Constructs**](../02_Basic_constructs/basic_constructs.md) | [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+
+[**🏠 Home**](../README.md) | [**◀️ Basic Constructs**](../02_Basic_constructs/basic_constructs.md) | [**Functions and Modular Programming ▶️**](../04_Functions_and_modular_programming/functions_and_modular_programming.md)

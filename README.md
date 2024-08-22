@@ -9,6 +9,7 @@ Welcome to "C Programming: Noob to Proficient"! This comprehensive course is des
 - [**Introduction to C Programming**](./01_Getting_started/getting_started.md#introduction-to-c-programming)
 - [**Development Environment Setup**](./01_Getting_started/getting_started.md#development-environment-setup)
 - [**First C Program**](./01_Getting_started/getting_started.md#first-c-program)
+- [**C Language Keywords**](./01_Getting_started/getting_started.md#c-language-keywords)
 
 
 ### [**02: Basic Constructs**](./02_Basic_constructs/basic_constructs.md)
@@ -33,10 +34,10 @@ Welcome to "C Programming: Noob to Proficient"! This comprehensive course is des
 - [**Recursion**](./04_Functions_and_modular_programming/functions_and_modular_programming.md#recursion)
 
 
-### [**05: Arrays and Strings**](01_Introduction/introduction.md)
+### [**05: Arrays and Strings**](./05_Arrays_and_strings/arrays_and_strings.md)
 
-- [**Arrays**](01_Introduction/introduction.md)
-- [**Strings**](01_Introduction/introduction.md)
+- [**Arrays**](./05_Arrays_and_strings/arrays_and_strings.md#arrays)
+- [**Strings**](./05_Arrays_and_strings/arrays_and_strings.md#strings)
 
 
 ### [**06: Pointers**](01_Introduction/introduction.md)

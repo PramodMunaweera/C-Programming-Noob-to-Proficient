@@ -10,6 +10,9 @@
         - Writing and understanding the structure of a simple C program
         - Compiling and executing a C program
         - Basic syntax
+    - [**C Language Keywords**](#c-language-keywords)
+        - Keyword categories
+        - List of keywords
 
 #   **01: Getting Started**
 ## **Introduction to C Programming**
@@ -105,5 +108,50 @@ int main() {
     ```sh
     Hello World!
     ```
+
+## **C Language Keywords**
+
+Keywords in C programming are reserved words that have predefined meanings within the language. They cannot be used as identifiers (variable names, function names, etc.) because they serve specific purposes.
+
+**Keyword Categories**
+
+Keywords can be categorized based on their functions:
+
+- **Data Type Keywords**
+
+    - Fundamental Data Types: `char`, `int`, `float`, `double`
+        
+        Define basic data types used for storing different kinds of values.
+    - Derived Data Types: `enum`, `struct`, `union`
+    
+        Create user-defined data types for complex data structures.
+- **Control Flow Keywords**
+
+    - Decision Making: `if`, `else`, `switch`, `case`, `default`
+
+        Control the flow of execution based on conditions.
+
+    - Looping: `for`, `while`, `do-while`
+        
+        Repeat code blocks multiple times.
+
+    - Flow control: `break`, `continue`, `goto`
+
+- **Storage Class Keywords**
+
+    - Storage Duration: `auto`, `static`, `extern`, `register`
+
+        Determine the lifetime and visibility of variables.
+
+- **Other Keywords**
+    - Miscellaneous: `return`, `sizeof`, `typedef`, `volatile`
+
+        Perform specific actions or provide additional features.
+
+All Data Types:
+`auto`, `break`, `case`, `char`, `const`, `continue`, `default`, `do`, `double`, `else`, `enum`, `extern`, `float`, `for`, `goto`, `if`, `int`, `long`, `register`, `return`, `short`, `signed`, `sizeof`, `static`, `struct`, `switch`, `typedef`, `union`, `unsigned`, `void`, `volatile`, `while`   
+
+While the core keywords have remained relatively stable over time, new keywords may be introduced in future versions of the C standard. This is often done to support new language features or programming paradigms.
+
 
 [**🏠 Home**](../README.md) | [**Basic Constructs ▶️**](../02_Basic_constructs/basic_constructs.md)
