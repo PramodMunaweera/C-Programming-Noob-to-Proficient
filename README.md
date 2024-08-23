@@ -40,11 +40,12 @@ Welcome to "C Programming: Noob to Proficient"! This comprehensive course is des
 - [**Strings**](./05_Arrays_and_strings/arrays_and_strings.md#strings)
 
 
-### [**06: Pointers**](01_Introduction/introduction.md)
+### [**06: Pointers**](./06_Pointers/pointers.md)
 
-- [**Introduction to Pointers**](01_Introduction/introduction.md)
-- [**Pointers and Arrays**](01_Introduction/introduction.md)
-- [**Pointers and Functions**](01_Introduction/introduction.md)
+- [**Introduction to Pointers**](./06_Pointers/pointers.md#introduction-to-pointers)
+- [**Pointers and Arrays**](./06_Pointers/pointers.md#pointers-and-arrays)
+- [**Pointers and Functions**](./06_Pointers/pointers.md#pointers-and-functions)
+- [**Common Pitfalls and Best Practices**](./06_Pointers/pointers.md#common-pitfalls-and-best-practices)
 
 ### [**07: Structures and Unions**](01_Introduction/introduction.md)
 
