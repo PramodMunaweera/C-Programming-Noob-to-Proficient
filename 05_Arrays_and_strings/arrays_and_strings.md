@@ -269,7 +269,7 @@ int main() {
 
 **Beaking down the code:**
 
-- `#include <string.h>`: Includes the string library, offering functions for string manipulation, such as strlen, `strcpy`, `strcat`, and `strcmp`.
+- `#include <string.h>`: Includes the string library, offering functions for string manipulation, such as `strlen`, `strcpy`, `strcat`, and `strcmp`.
 
 - `printf("Length of str1: %lu\n", strlen(str1));`: Prints the length of the string `str1` to the console using the `strlen` function. The `%lu` format specifier is used for unsigned long integers.
 
