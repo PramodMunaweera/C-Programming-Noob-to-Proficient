@@ -1,4 +1,4 @@
-[**🏠 Home**](../README.md) | [**Functions and Modular Programming ◀️**](../04_Functions_and_modular_programming/functions_and_modular_programming.md) | [**Pointers ▶️**](../06_Pointers/pointers.md)
+[**🏠 Home**](../README.md) | [**◀️ Functions and Modular Programming**](../04_Functions_and_modular_programming/functions_and_modular_programming.md) | [**Pointers ▶️**](../06_Pointers/pointers.md)
 
 
 - ### [**05: Arrays and Strings**](#05-arrays-and-strings-1)
@@ -282,4 +282,4 @@ Arrays and strings are fundamental data structures in C programming. Understandi
 
 
 
-[**🏠 Home**](../README.md) | [**Functions and Modular Programming ◀️**](../04_Functions_and_modular_programming/functions_and_modular_programming.md) | [**Pointers ▶️**](../06_Pointers/pointers.md)
+[**🏠 Home**](../README.md) | [**◀️ Functions and Modular Programming**](../04_Functions_and_modular_programming/functions_and_modular_programming.md) | [**Pointers ▶️**](../06_Pointers/pointers.md)

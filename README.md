@@ -47,10 +47,11 @@ Welcome to "C Programming: Noob to Proficient"! This comprehensive course is des
 - [**Pointers and Functions**](./06_Pointers/pointers.md#pointers-and-functions)
 - [**Common Pitfalls and Best Practices**](./06_Pointers/pointers.md#common-pitfalls-and-best-practices)
 
-### [**07: Structures and Unions**](01_Introduction/introduction.md)
+### [**07: Structures and Unions**](./07_Structures_and_unions/structures_and_unions.md)
 
-- [**Structures**](01_Introduction/introduction.md)
-- [**Unions**](01_Introduction/introduction.md)
+- [**Structures**](./07_Structures_and_unions/structures_and_unions.md#structures)
+- [**Unions**](./07_Structures_and_unions/structures_and_unions.md#unions)
+- [**Advanced Concepts**](./07_Structures_and_unions/structures_and_unions.md#advanced-concepts)
 
 
 ### **Phase 3: Advanced Topics, Data Structures and Algorithms**

@@ -1,4 +1,4 @@
-[**🏠 Home**](../README.md) | [**Arrays and Strings ◀️**](../05_Arrays_and_strings/arrays_and_strings.md)| [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ Arrays and Strings**](../05_Arrays_and_strings/arrays_and_strings.md)| [**Structures and Unions ▶️**](../07_Structures_and_unions/structures_and_unions.md)
 
 
 
@@ -19,6 +19,8 @@
 
     - [**Common Pitfalls and Best Practices**](#common-pitfalls-and-best-practices)
         - Avoiding errors when using pointers
+
+
 
 # **06: Pointers**
 
@@ -283,4 +285,4 @@ Understanding pointers is crucial for mastering C programming. They provide powe
 
 
 
-[**🏠 Home**](../README.md) | [**Arrays and Strings ◀️**](../05_Arrays_and_strings/arrays_and_strings.md)| [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ Arrays and Strings**](../05_Arrays_and_strings/arrays_and_strings.md)| [**Structures and Unions ▶️**](../07_Structures_and_unions/structures_and_unions.md)
