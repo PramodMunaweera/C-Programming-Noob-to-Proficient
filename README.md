@@ -56,9 +56,13 @@ Welcome to "C Programming: Noob to Proficient"! This comprehensive course is des
 
 ### **Phase 3: Advanced Topics, Data Structures and Algorithms**
 
-### [**08: Dynamic Memory Allocation**](01_Introduction/introduction.md)
+### [**08: C Memory Concepts**](./08_C_memory_concepts/c_memory_concepts.md)
 
-- [**Memory Management**](01_Introduction/introduction.md)
+- [**Memory Layout in C**](./08_C_memory_concepts/c_memory_concepts.md#memory-layout-in-c)
+- [**Static Memory Allocation**](./08_C_memory_concepts/c_memory_concepts.md#static-memory-allocation)
+- [**Dynamic Memory Allocation**](./08_C_memory_concepts/c_memory_concepts.md#dynamic-memory-allocation)
+- [**Best Practices For Memory Management**](./08_C_memory_concepts/c_memory_concepts.md#best-practices-for-memory-management)
+
 
 ### [**09: File Handling**](01_Introduction/introduction.md)
 

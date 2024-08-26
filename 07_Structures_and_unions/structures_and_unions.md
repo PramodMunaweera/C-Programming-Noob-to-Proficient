@@ -1,4 +1,4 @@
-[**🏠 Home**](../README.md) | [**◀️ Pointers**](../06_Pointers/pointers.md) | [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ Pointers**](../06_Pointers/pointers.md) | [**C Memory Concepts ▶️**](../08_C_memory_concepts/c_memory_concepts.md)
 
 
 
@@ -343,4 +343,4 @@ int main() {
 
 
 
-[**🏠 Home**](../README.md) | [**◀️ Pointers**](../06_Pointers/pointers.md) | [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ Pointers**](../06_Pointers/pointers.md) | [**C Memory Concepts ▶️**](../08_C_memory_concepts/c_memory_concepts.md)
