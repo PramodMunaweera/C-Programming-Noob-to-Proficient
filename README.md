@@ -64,9 +64,12 @@ Welcome to "C Programming: Noob to Proficient"! This comprehensive course is des
 - [**Best Practices For Memory Management**](./08_C_memory_concepts/c_memory_concepts.md#best-practices-for-memory-management)
 
 
-### [**09: File Handling**](01_Introduction/introduction.md)
+### [**09: File Handling**](./09_File_handling/file_handling.md)
 
-- [**File I/O**](01_Introduction/introduction.md)
+- [**File I/O**](./09_File_handling/file_handling.md#file-io)
+- [**Binary file I/O**](./09_File_handling/file_handling.md#binary-file-io)
+- [**File System Operations**](./09_File_handling/file_handling.md#file-system-operations)
+- [**Advanced File Handling Concepts**](./09_File_handling/file_handling.md#advanced-file-handling-concepts)
 
 ### [**10: Libraries and Linking**](01_Introduction/introduction.md)
 - [**Header files**](01_Introduction/introduction.md)
@@ -98,6 +101,7 @@ Welcome to "C Programming: Noob to Proficient"! This comprehensive course is des
 ### [**14: Concurrency**](01_Introduction/introduction.md)
 
 - [**Multithreading**](01_Introduction/introduction.md)
+- [**Asynchronous I/O**](01_Introduction/introduction.md)
 
 ### [**15: Networking**](01_Introduction/introduction.md)
 
