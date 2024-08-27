@@ -1,6 +1,11 @@
 # C Programming: Noob to Proficient
 Welcome to "C Programming: Noob to Proficient"! This comprehensive course is designed to take you from a complete beginner to a proficient C programmer. You'll start with the basics, covering essential concepts like data types, operators, and control structures. As you progress, you'll delve into more advanced topics such as pointers, memory management, and file handling. With practical exercises, real-world examples, and detailed explanations, this course will equip you with the skills needed to write efficient and effective C code. Join us on this journey and master the fundamentals of one of the most powerful programming languages!
 
+📌 **Notice**
+
+This is kind of my learning diary, where I am compiling a series of lessons that bring together all the knowledge I have acquired from various scattered sources, including books, articles, websites, YouTube videos, and more. My goal is to create a comprehensive course that consolidates this information, making it easier for others to access and learn from as they progress in their journey of learning the C language—from the basics to a level where they can confidently use it to build real software. Hope this helps🙂
+
+## **Contents**
 
 ### **Phase 1: Introduction to Programming Concepts and C Language Basics**
 
@@ -71,9 +76,10 @@ Welcome to "C Programming: Noob to Proficient"! This comprehensive course is des
 - [**File System Operations**](./09_File_handling/file_handling.md#file-system-operations)
 - [**Advanced File Handling Concepts**](./09_File_handling/file_handling.md#advanced-file-handling-concepts)
 
-### [**10: Libraries and Linking**](01_Introduction/introduction.md)
-- [**Header files**](01_Introduction/introduction.md)
-- [**Shared Library**](01_Introduction/introduction.md)
+### [**10: Libraries and Linking**](./10_Libraries_and_linking/libraries_and_linking.md)
+- [**Modular Programming**](./10_Libraries_and_linking/libraries_and_linking.md#modular-programming)
+- [**C Libraries**](./10_Libraries_and_linking/libraries_and_linking.md#c-libraries)
+- [**Best Practices**](./10_Libraries_and_linking/libraries_and_linking.md#best-practices)
 
 ### [**11: Data Structures and Algorithms**](01_Introduction/introduction.md)
 
