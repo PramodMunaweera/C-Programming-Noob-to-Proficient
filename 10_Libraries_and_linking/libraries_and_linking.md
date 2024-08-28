@@ -124,7 +124,7 @@ Shared libraries allow code to be shared between programs. There are two types o
 
 ### Static Libraries
 
-Static libraries (.a files on Unix-like systems, .lib files on Windows) are linked at compile-time. The library code becomes part of the executable.
+C libraries (.a files on Unix-like systems, .lib files on Windows) are linked at compile-time. The library code becomes part of the executable.
 
 Creating a static library:
 
