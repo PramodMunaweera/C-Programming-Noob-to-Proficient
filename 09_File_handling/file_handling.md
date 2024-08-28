@@ -1,4 +1,4 @@
-[**🏠 Home**](../README.md) | [**◀️ C Memory Concepts**](../08_C_memory_concepts/c_memory_concepts.md) | [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ C Memory Concepts**](../08_C_memory_concepts/c_memory_concepts.md) | [**Libraries and Linking ▶️**](../10_Libraries_and_linking/libraries_and_linking.md)
 
 
 
@@ -492,4 +492,4 @@ This concludeslesson on file handling in C that covered basic file operations, b
 
 
 
-[**🏠 Home**](../README.md) | [**◀️ C Memory Concepts**](../08_C_memory_concepts/c_memory_concepts.md) | [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ C Memory Concepts**](../08_C_memory_concepts/c_memory_concepts.md) | [**Libraries and Linking ▶️**](../10_Libraries_and_linking/libraries_and_linking.md)

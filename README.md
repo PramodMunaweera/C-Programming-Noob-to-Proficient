@@ -80,6 +80,7 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 - [**Modular Programming**](./10_Libraries_and_linking/libraries_and_linking.md#modular-programming)
 - [**C Libraries**](./10_Libraries_and_linking/libraries_and_linking.md#c-libraries)
 - [**Best Practices**](./10_Libraries_and_linking/libraries_and_linking.md#best-practices)
+- [**Advanced Concepts**](./10_Libraries_and_linking/libraries_and_linking.md#advanced-concepts)
 
 ### [**11: Data Structures and Algorithms**](01_Introduction/introduction.md)
 
