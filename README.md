@@ -78,6 +78,7 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 
 ### [**10: Libraries and Linking**](./10_Libraries_and_linking/libraries_and_linking.md)
 - [**Modular Programming**](./10_Libraries_and_linking/libraries_and_linking.md#modular-programming)
+- [**Standard C Libraries**](./10_Libraries_and_linking/libraries_and_linking.md#standard-c-libraries)
 - [**C Libraries**](./10_Libraries_and_linking/libraries_and_linking.md#c-libraries)
 - [**Best Practices**](./10_Libraries_and_linking/libraries_and_linking.md#best-practices)
 - [**Advanced Concepts**](./10_Libraries_and_linking/libraries_and_linking.md#advanced-concepts)

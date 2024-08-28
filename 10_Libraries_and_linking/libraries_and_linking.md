@@ -6,6 +6,8 @@
     - [**Modular Programming**](#modular-programming)
         - Splitting programs into multiple files
         - Using header files
+    - [**Standard C Libraries**](#standard-c-libraries)
+        - Commonly used standard C libraries
     - [**C Libraries**](#c-libraries)
         - Types of libraries
         - Static Libraries
@@ -116,6 +118,46 @@ Complex multiply_complex(Complex a, Complex b);
 #define PI 3.14159265358979323846
 
 #endif
+```
+
+## Standard C Libraries
+
+The C standard library provides a set of functions and data types that form the core of C programming, which we have already used extensively in previous lessons. These libraries are typically included by default in C compilers. Here are some of the most commonly used ones:
+
+1. **stdio.h**: Handles input/output operations, including reading from and writing to files and the console.
+Common functions: `printf`, `scanf`, `fopen`, `fclose`, `fgets`, `fputs`, `fprintf`, `fscanf`.
+
+2. **stdlib.h**: Provides general-purpose functions, such as memory allocation, random number generation, and mathematical functions.
+Common functions: `malloc`, `free`, `rand`, `srand`, `qsort`, `abs`, `atoi`, `atof`, `itoa`.
+
+3. **string.h**: Deals with string manipulation, including copying, concatenation, comparison, and searching.
+Common functions: `strcpy`, `strcat`, `strcmp`, `strlen`, `strstr`, `strtok`.
+
+4. **math.h**: Offers mathematical functions, including trigonometric, logarithmic, and exponential operations.
+Common functions: `sin`, `cos`, `tan`, `log`, `exp`, `sqrt`, `pow`.
+
+5. **ctype.h**: Provides functions for character classification and conversion.
+Common functions: `isalpha`, `isdigit`, `isspace`, `toupper`, `tolower`.
+
+6. **time.h**: Handles time and date operations, including obtaining the current time and formatting dates.
+Common functions: `time`, `localtime`, `strftime`, `ctime`.
+
+7. **assert.h**: Used for debugging, providing a mechanism to check conditions at runtime and terminate the program if they are not met.
+Common functions: `assert`
+
+Example using C Standard libraries:
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main() {
+    srand(time(NULL));  // Seed random number generator
+    int random_num = rand() % 100 + 1;  // Generate random number between 1 and 100
+    printf("Random number: %d\n", random_num);
+    return 0;
+}
 ```
 
 ## **C Libraries**
