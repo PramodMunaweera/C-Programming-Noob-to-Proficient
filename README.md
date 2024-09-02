@@ -83,16 +83,12 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 - [**Best Practices**](./10_Libraries_and_linking/libraries_and_linking.md#best-practices)
 - [**Advanced Concepts**](./10_Libraries_and_linking/libraries_and_linking.md#advanced-concepts)
 
-### [**11: Data Structures and Algorithms**](01_Introduction/introduction.md)
+### [**11: Data Structures and Algorithms**](./11_Data_structures_and_algorithms/data_structures_and_algorithms.md)
 
-- [**Linked Lists**](01_Introduction/introduction.md)
-- [**Stack and Queue**](01_Introduction/introduction.md)
-- [**Trees**](01_Introduction/introduction.md)
-
-- [**Sorting Algorithms**](01_Introduction/introduction.md)
-- [**Searching Algorithms**](01_Introduction/introduction.md)
-
-- [**Advanced Data Structures**](01_Introduction/introduction.md)
+- [**Data Structures**](./11_Data_structures_and_algorithms/data_structures_and_algorithms.md#data-structures)
+- [**Searching Algorithms**](./11_Data_structures_and_algorithms/data_structures_and_algorithms.md#searching-algorithms)
+- [**Sorting Algorithms**](./11_Data_structures_and_algorithms/data_structures_and_algorithms.md#sorting-algorithms)
+- [**Advanced Data Structures**](./11_Data_structures_and_algorithms/data_structures_and_algorithms.md#advanced-data-structures)
 
 ### **Phase 4: Expert Level**
 
