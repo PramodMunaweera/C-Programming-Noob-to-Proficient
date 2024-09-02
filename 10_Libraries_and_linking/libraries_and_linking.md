@@ -1,4 +1,4 @@
-[**🏠 Home**](../README.md) | [**◀️ File Handling**](../09_File_handling/file_handling.md) | [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ File Handling**](../09_File_handling/file_handling.md) | [**Data Structures and Algorithms ▶️**](../11_Data_structures_and_algorithms/data_structures_and_algorithms.md)
 
 
 
@@ -384,4 +384,4 @@ The output will be "Strong implementation: Hello, World!" because the strong sym
 This concludes the lesson on Libraries and Linking in C. We've covered modular programming, working with multiple files, header files, static and dynamic libraries and best practices. Remember that good organization and understanding of these concepts can greatly improve the quality and maintainability of your C programs.
 
 
-[**🏠 Home**](../README.md) | [**◀️ File Handling**](../09_File_handling/file_handling.md) | [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ File Handling**](../09_File_handling/file_handling.md) | [**Data Structures and Algorithms ▶️**](../11_Data_structures_and_algorithms/data_structures_and_algorithms.md)
