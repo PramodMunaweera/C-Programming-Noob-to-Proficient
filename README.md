@@ -95,11 +95,12 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 - [**Advanced Data Structures**](./11_Data_structures_and_algorithms/data_structures_and_algorithms.md#advanced-data-structures)
 
 
-### [**12: Function pointers**](01_Introduction/introduction.md)
+### [**12: Function pointers**](./12_Function_pointers/function_pointers.md)
 
-- [**Function pointers**](01_Introduction/introduction.md)
-- [**Callbacks**](01_Introduction/introduction.md)
-
+- [**Function pointers**](./12_Function_pointers/function_pointers.md#function-pointers-2)
+- [**Callbacks and Event-Driven Programming**](./12_Function_pointers/function_pointers.md#callbacks-and-event-driven-programming)
+- [**Dynamic Dispatch**](./12_Function_pointers/function_pointers.md#dynamic-dispatch)
+- [**Abstraction of Object-oriented programming (OOP) in C**](./12_Function_pointers/function_pointers.md#abstraction-of-object-oriented-programming-oop-in-c)
 
 ### **Phase 4: Expert Level**
 
