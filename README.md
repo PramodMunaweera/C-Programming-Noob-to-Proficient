@@ -52,6 +52,7 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 - [**Pointers and Functions**](./06_Pointers/pointers.md#pointers-and-functions)
 - [**Common Pitfalls and Best Practices**](./06_Pointers/pointers.md#common-pitfalls-and-best-practices)
 
+
 ### [**07: Structures and Unions**](./07_Structures_and_unions/structures_and_unions.md)
 
 - [**Structures**](./07_Structures_and_unions/structures_and_unions.md#structures)
@@ -60,6 +61,7 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 
 
 ### **Phase 3: Advanced Topics, Data Structures and Algorithms**
+
 
 ### [**08: C Memory Concepts**](./08_C_memory_concepts/c_memory_concepts.md)
 
@@ -76,12 +78,14 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 - [**File System Operations**](./09_File_handling/file_handling.md#file-system-operations)
 - [**Advanced File Handling Concepts**](./09_File_handling/file_handling.md#advanced-file-handling-concepts)
 
+
 ### [**10: Libraries and Linking**](./10_Libraries_and_linking/libraries_and_linking.md)
 - [**Modular Programming**](./10_Libraries_and_linking/libraries_and_linking.md#modular-programming)
 - [**Standard C Libraries**](./10_Libraries_and_linking/libraries_and_linking.md#standard-c-libraries)
 - [**C Libraries**](./10_Libraries_and_linking/libraries_and_linking.md#c-libraries)
 - [**Best Practices**](./10_Libraries_and_linking/libraries_and_linking.md#best-practices)
 - [**Advanced Concepts**](./10_Libraries_and_linking/libraries_and_linking.md#advanced-concepts)
+
 
 ### [**11: Data Structures and Algorithms**](./11_Data_structures_and_algorithms/data_structures_and_algorithms.md)
 
@@ -90,23 +94,52 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 - [**Sorting Algorithms**](./11_Data_structures_and_algorithms/data_structures_and_algorithms.md#sorting-algorithms)
 - [**Advanced Data Structures**](./11_Data_structures_and_algorithms/data_structures_and_algorithms.md#advanced-data-structures)
 
-### **Phase 4: Expert Level**
 
-### [**12: Advanced Concepts**](01_Introduction/introduction.md)
+### [**12: Function pointers**](01_Introduction/introduction.md)
 
 - [**Function pointers**](01_Introduction/introduction.md)
 - [**Callbacks**](01_Introduction/introduction.md)
 
-### [**13: Preprocessor and Macros**](01_Introduction/introduction.md)
+
+### **Phase 4: Expert Level**
+
+
+### [**13: Preprocessor Directives and Macros**](01_Introduction/introduction.md)
 
 - [**Preprocessor Directives**](01_Introduction/introduction.md)
 - [**Macros**](01_Introduction/introduction.md)
+
 
 ### [**14: Concurrency**](01_Introduction/introduction.md)
 
 - [**Multithreading**](01_Introduction/introduction.md)
 - [**Asynchronous I/O**](01_Introduction/introduction.md)
+- [**Atomic Operations**]()
+- [**Memory Barriers and Synchronization**]()
+
 
 ### [**15: Networking**](01_Introduction/introduction.md)
 
 - [**Socket Programming**](01_Introduction/introduction.md)
+
+
+### [**16: Low-Level Programming**](01_Introduction/introduction.md)
+
+- [**Inline Assembly**](01_Introduction/introduction.md)
+- [**Bitwise Operations**](01_Introduction/introduction.md)
+- [**Volatile Keyword**](01_Introduction/introduction.md)
+- [**Endianness**](01_Introduction/introduction.md)
+
+
+### [**17: System Programming**](01_Introduction/introduction.md)
+
+- [**Interprocess Communication (IPC)**](01_Introduction/introduction.md)
+- [**Signal Handling**](01_Introduction/introduction.md)
+- [**POSIX API and System Calls**](01_Introduction/introduction.md)
+
+
+### [**18: Security in C Programming**](01_Introduction/introduction.md)
+
+- [**Buffer Overflow Protection**](01_Introduction/introduction.md)
+- [**Secure Coding Practices**](01_Introduction/introduction.md)
+- [**Cryptography**](01_Introduction/introduction.md)
