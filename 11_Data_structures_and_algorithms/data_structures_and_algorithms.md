@@ -1,4 +1,4 @@
-[**🏠 Home**](../README.md) | [**◀️ Libraries and Linking**](../10_Libraries_and_linking/libraries_and_linking.md) | [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ Libraries and Linking**](../10_Libraries_and_linking/libraries_and_linking.md) | [**Function Pointers ▶️**](../12_Function_pointers/function_pointers.md)
 
 
 
@@ -35,6 +35,8 @@ Data structures are ways of organizing and storing data in a computer so that it
 
 Arrays are fundamental and serve as a basis for understanding more complex data structures.
 
+Example: [example_arrays.c](./src/example_arrays.c)
+
 ```c
 #include <stdio.h>
 
@@ -63,6 +65,8 @@ int main() {
 #### Linked Lists
 
 A linked list is a linear data structure where elements are stored in nodes. Each node contains a data field and a reference (link) to the next node in the sequence.
+
+Example: [example_linked_list.c](./src/example_linked_list.c)
 
 ```c
 #include <stdio.h>
@@ -138,6 +142,8 @@ int main() {
 
 A stack is a Last In First Out (LIFO) data structure. Elements are added and removed from the same end, called the top of the stack.
 
+Example: [example_stack.c](./src/example_stack.c)
+
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -208,6 +214,8 @@ int main() {
 #### Queue
 
 A queue is a First In First Out (FIFO) data structure. Elements are added at one end (rear) and removed from the other end (front).
+
+Example: [example_queue.c](./src/example_queue.c)
 
 ```c
 #include <stdio.h>
@@ -299,6 +307,8 @@ Trees are hierarchical data structures consisting of nodes connected by edges. T
 
 A binary tree is a tree data structure in which each node has at most two children, referred to as the left child and the right child.
 
+Example: [example_binary_tree.c](./src/example_binary_tree.c)
+
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -343,6 +353,8 @@ int main() {
 #### Binary Search Trees (BST)
 
 A Binary Search Tree is a binary tree with the property that the left subtree of a node contains only nodes with keys less than the node's key, and the right subtree contains only nodes with keys greater than the node's key.
+
+Example: [example_binary_search_tree.c](./src/example_binary_search_tree.c)
 
 ```c
 #include <stdio.h>
@@ -428,6 +440,8 @@ int main() {
 
 Linear search is a simple searching algorithm that checks each element in the list sequentially until a match is found or the end of the list is reached.
 
+Example: [example_linear_search.c](./src/example_linear_search.c)
+
 ```c
 #include <stdio.h>
 
@@ -460,6 +474,8 @@ Time Complexity: O(n) in the worst case, where n is the number of elements in th
 ### Binary Search
 
 Binary search is an efficient algorithm for searching a sorted array by repeatedly dividing the search interval in half.
+
+Example: [example_binary_search.c](./src/example_binary_search.c)
 
 ```c
 #include <stdio.h>
@@ -504,6 +520,8 @@ Time Complexity: O(log n), where n is the number of elements in the array.
 ### Bubble Sort
 
 Bubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order.
+
+Example: [example_bubble_sort.c](./src/example_bubble_sort.c)
 
 ```c
 #include <stdio.h>
@@ -551,6 +569,8 @@ Time Complexity: O(n^2) in the worst and average cases.
 ### Selection Sort
 
 Selection sort divides the input list into two parts: a sorted portion at the left end and an unsorted portion at the right end. It repeatedly selects the smallest element from the unsorted portion and adds it to the sorted portion.
+
+Example: [example_selection_sort.c](./src/example_selection_sort.c)
 
 ```c
 #include <stdio.h>
@@ -601,6 +621,8 @@ Time Complexity: O(n^2) in all cases.
 
 Insertion sort builds the final sorted array one item at a time. It iterates through an input array and removes one element per iteration, finds the location it belongs within the sorted list, and inserts it there.
 
+Example: [example_insertion_sort.c](./src/example_insertion_sort.c)
+
 ```c
 #include <stdio.h>
 
@@ -646,6 +668,8 @@ Time Complexity: O(n^2) in the worst and average cases, but can be O(n) in the b
 ### Quick Sort
 
 Quick sort is a divide-and-conquer algorithm. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
+
+Example: [example_quick_sort.c](./src/example_quick_sort.c)
 
 ```c
 #include <stdio.h>
@@ -703,6 +727,8 @@ int main() {
 ### Merge Sort
 
 Merge sort is an efficient, stable sorting algorithm that uses a divide-and-conquer strategy. It divides the unsorted list into n sublists, each containing one element, then repeatedly merges sublists to produce new sorted sublists until there is only one sublist remaining.
+
+Example: [example_merge_sort.c](./src/example_merge_sort.c)
 
 ```c
 #include <stdio.h>
@@ -784,6 +810,8 @@ int main() {
 ### Hash Table
 
 Hash tables are data structures that implement an associative array abstract data type, a structure that can map keys to values.
+
+Example: [example_hash_table.c](./src/example_hash_table.c)
 
 ```c
 #include <stdio.h>
@@ -895,6 +923,8 @@ int main() {
 
 Heap is a special type of binary tree where the value of each node is either greater than or equal to (in a max heap) or less than or equal to (in a min heap) the values of its children. This property ensures that the root node always contains the maximum (in a max heap) or minimum (in a min heap) element in the entire tree.
 
+Example: [example_heap.c](./src/example_heap.c)
+
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -995,8 +1025,10 @@ A graph is a non-linear data structure consisting of nodes (vertices) and edges.
 
 There are two main ways to represent a graph:
 
-- Adjacency Matrix: A 2D array where arr[i][j] represents an edge from vertex i to vertex j.
-- Adjacency List: An array of linked lists, where each list represents the neighbors of a vertex.
+- **Adjacency Matrix:** A 2D array where arr[i][j] represents an edge from vertex i to vertex j.
+- **Adjacency List:** An array of linked lists, where each list represents the neighbors of a vertex.
+
+Example: [example_graph.c](./src/example_graph.c)
 
 ```c
 #include <stdio.h>
@@ -1109,4 +1141,4 @@ int main() {
 ```
 
 
-[**🏠 Home**](../README.md) | [**◀️ Libraries and Linking**](../10_Libraries_and_linking/libraries_and_linking.md) | [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ Libraries and Linking**](../10_Libraries_and_linking/libraries_and_linking.md) | [**Function Pointers ▶️**](../12_Function_pointers/function_pointers.md)
