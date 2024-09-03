@@ -22,9 +22,10 @@
 
 ## Function Pointers
 
-Function pointers are a powerful feature in C that allow you to store the address of a function in a pointer, and then call the function through the pointer. This enables dynamic function calls, which can be used for callbacks, implementing function tables, and achieving polymorphism-like behavior in C.
+Function pointers are a powerful feature in C that allow us to store the address of a function in a pointer, and then call the function through the pointer. This enables dynamic function calls, which can be used for callbacks, implementing function tables, and achieving polymorphism-like behavior in C.
 
 ### Basics of Function Pointers
+
 A function pointer is declared similarly to a normal pointer, but it points to a function instead of a data type. The syntax involves specifying the function's signature, which includes the return type and the parameters.
 
 Example: [example_basics.c](./src/example_basics.c)
@@ -54,7 +55,7 @@ int main() {
 ```
 ### Function Pointers in Arrays
 
-Function pointers can be stored in arrays, allowing you to create a table of functions that can be called dynamically based on certain conditions.
+Function pointers can be stored in arrays, allowing us to create a table of functions that can be called dynamically based on certain conditions.
 
 Example: [example_array_of_function_pointers.c](./src/example_array_of_function_pointers.c)
 
@@ -114,7 +115,7 @@ This pattern is widely used in libraries and APIs where you need to execute a us
 
 ## Callbacks and Event-Driven Programming
 
-Callbacks are a common use case for function pointers. You register a function (the callback) that will be called when a certain event occurs.
+Callbacks are a common use case for function pointers. We register a function (the callback) that will be called when a certain event occurs.
 
 Example: [example_event_driven_programming.c](./src/example_event_driven_programming.c)
 
@@ -181,12 +182,12 @@ int main() {
 }
 ```
 
-In this example, the speak function is dynamically dispatched based on the type of animal, achieving a behavior similar to polymorphism in object-oriented programming.
+The speak function is dynamically dispatched based on the type of animal, achieving a behavior similar to polymorphism in object-oriented programming.
 
 
 ## Abstraction of Object-Oriented Programming (OOP) in C
 
-In C, while there are no built-in classes and objects as in C++ or other object-oriented languages, you can achieve a form of object-oriented programming (OOP) using structs and function pointers. This approach allows you to encapsulate data (like member variables) and behavior (like methods) within a structure, providing a way to create "objects" and "classes".
+In C, while there are no built-in classes and objects as in C++ or other object-oriented languages, we can achieve a form of object-oriented programming (OOP) using structs and function pointers. This approach allows us to encapsulate data (like member variables) and behavior (like methods) within a structure, providing a way to create "objects" and "classes".
 
 - **Struct as an Object:** A struct in C can represent an "object" by holding data that would typically be member variables.
 - **Function Pointers as Methods:** You can include function pointers within a struct to represent methods associated with that object.
