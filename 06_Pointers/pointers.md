@@ -240,7 +240,7 @@ int main() {
 }
 ```
 
-Function pointers are big and really important topic, and we'll go in-depth into this in [12: Advanced Concepts - Advanced Pointers]() chapter.
+Function pointers are big and really important topic, and we'll go in-depth into this in [12: Function Pointers](../12_Function_pointers/function_pointers.md) chapter.
 
 ## Common Pitfalls and Best Practices
 
