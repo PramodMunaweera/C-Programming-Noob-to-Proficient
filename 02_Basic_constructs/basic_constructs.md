@@ -33,6 +33,7 @@ C provides several basic data types:
 Extended list of C data types with their value ranges and typical memory size:
 
 ![alt text](img/image.png)
+
 Image Source: https://csestudyzone.blogspot.com/2019/04/data-types-in-c-language.html
 
 Understanding categories of data types in C is essential for writing efficient programs. Each type has its own memory requirements and range of values it can represent, which affects how and when you should use them in your code.
