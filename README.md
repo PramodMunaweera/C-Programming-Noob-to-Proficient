@@ -109,18 +109,22 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 ### **Phase 4: Expert Level**
 
 
-### [**13: Preprocessor Directives and Macros**](01_Introduction/introduction.md)
+### [**13: Preprocessor Directives and Macros**](./13_Preprocessor_directives_and_macros/preprocessor_directives_and_macros.md)
 
-- [**Preprocessor Directives**](01_Introduction/introduction.md)
-- [**Macros**](01_Introduction/introduction.md)
+- [**Preprocessor Directives**](./13_Preprocessor_directives_and_macros/preprocessor_directives_and_macros.md#13-preprocessor-directives-and-macros-1)
+- [**Macros**](./13_Preprocessor_directives_and_macros/preprocessor_directives_and_macros.md#macros)
+- [**Conditional Compilation**](./13_Preprocessor_directives_and_macros/preprocessor_directives_and_macros.md#conditional-compilation)
+- [**Best Practices**](./13_Preprocessor_directives_and_macros/preprocessor_directives_and_macros.md#best-practices)
 
 
-### [**14: Concurrency**](01_Introduction/introduction.md)
+### [**14: Concurrency**](./14_Concurrency/concurrency.md)
 
-- [**Multithreading**](01_Introduction/introduction.md)
-- [**Asynchronous I/O**](01_Introduction/introduction.md)
-- [**Atomic Operations**]()
-- [**Memory Barriers and Synchronization**]()
+- [**Multithreading**](./14_Concurrency/concurrency.md#multithreading)
+- [**Asynchronous I/O**](./14_Concurrency/concurrency.md#asynchronous-io)
+- [**Atomic Operations**](./14_Concurrency/concurrency.md#atomic-operations)
+- [**Thread Barriers**](./14_Concurrency/concurrency.md#thread-barriers)
+- [**Advanced Concepts**](./14_Concurrency/concurrency.md#advanced-concepts)
+- [**Best Practices and Common Pitfalls**](./14_Concurrency/concurrency.md#best-practices-and-common-pitfalls)
 
 
 ### [**15: Networking**](01_Introduction/introduction.md)
