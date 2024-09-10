@@ -1,4 +1,4 @@
-[**🏠 Home**](../README.md) | [**◀️ Function Pointers**](../12_Function_pointers/function_pointers.md) | [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ Function Pointers**](../12_Function_pointers/function_pointers.md) | [**Concurrency ▶️**](../14_Concurrency/concurrency.md)
 
 
 
@@ -274,4 +274,4 @@ Conditional compilation is commonly used for debugging. Debugging code can be in
 
 
 
-[**🏠 Home**](../README.md) | [**◀️ Function Pointers**](../12_Function_pointers/function_pointers.md) | [**Control Structures ▶️**](../02_Basic_constructs/basic_constructs.md)
+[**🏠 Home**](../README.md) | [**◀️ Function Pointers**](../12_Function_pointers/function_pointers.md) | [**Concurrency ▶️**](../14_Concurrency/concurrency.md)
