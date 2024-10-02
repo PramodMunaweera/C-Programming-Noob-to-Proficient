@@ -49,10 +49,10 @@ To define a structure, use the `struct` keyword followed by the structure name a
 - Accessing structure members
     ```c
     // Assignment
-    person1.name = "Alice"; 
+    person1.age = 20; 
 
     // Access
-    printf("Person 1: Name = %s\n", person1.name);
+    printf("Person 1: Age = %s\n", person1.age);
     ```    
 
 - We can also initialize a structure when declaring it
