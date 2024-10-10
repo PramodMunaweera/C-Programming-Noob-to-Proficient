@@ -9,7 +9,11 @@ Welcome to "C Programming: Noob to Proficient"! This comprehensive course is des
 
 This is kind of my learning diary, where I am compiling a series of lessons that bring together all the knowledge I have acquired from various scattered sources, including books, articles, websites, YouTube videos, and more. My goal is to create a comprehensive course that consolidates this information, making it easier for others to access and learn from as they progress in their journey of learning the C language—from the basics to a level where they can confidently use it to build real software. Hope this helps🙂
 
-## **Contents**
+<div align="center">
+  <img src="res/img/wip.png" alt="Logo">
+</div>
+
+## **📑 Contents**
 
 ### **Phase 1: Introduction to Programming Concepts and C Language Basics**
 
@@ -127,9 +131,13 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 - [**Best Practices and Common Pitfalls**](./14_Concurrency/concurrency.md#best-practices-and-common-pitfalls)
 
 
-### [**15: Networking**](01_Introduction/introduction.md)
+### [**15: Networking**](./15_Networking/networking.md)
 
-- [**Socket Programming**](01_Introduction/introduction.md)
+- [**Networking in C**](./15_Networking/networking.md#networking-in-c)
+- [**Socket Programming**](./15_Networking/networking.md#socket-programming)
+- [**TCP Programming**](./15_Networking/networking.md#tcp-programming)
+- [**UDP Programming**](./15_Networking/networking.md#udp-programming)
+- [**DNS and Hostname Resolution**](./15_Networking/networking.md#dns-and-hostname-resolution)
 
 
 ### [**16: Low-Level Programming**](01_Introduction/introduction.md)
