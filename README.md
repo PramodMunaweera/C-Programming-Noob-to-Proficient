@@ -140,12 +140,12 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 - [**DNS and Hostname Resolution**](./15_Networking/networking.md#dns-and-hostname-resolution)
 
 
-### [**16: Low-Level Programming**](01_Introduction/introduction.md)
+### [**16: Low-Level Programming**](./16_Low_level_programming/low_level_programming.md)
 
-- [**Inline Assembly**](01_Introduction/introduction.md)
-- [**Bitwise Operations**](01_Introduction/introduction.md)
-- [**Volatile Keyword**](01_Introduction/introduction.md)
-- [**Endianness**](01_Introduction/introduction.md)
+  - [**Inline Assembly**](./16_Low_level_programming/low_level_programming.md#inline-assembly)
+  - [**Bitwise Operations**](./16_Low_level_programming/low_level_programming.md#bitwise-operations)
+  - [**Volatile Keyword**](./16_Low_level_programming/low_level_programming.md#volatile-keyword)
+  - [**Endianness**](./16_Low_level_programming/low_level_programming.md#endianness)
 
 
 ### [**17: System Programming**](01_Introduction/introduction.md)
