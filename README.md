@@ -148,11 +148,11 @@ This is kind of my learning diary, where I am compiling a series of lessons that
   - [**Endianness**](./16_Low_level_programming/low_level_programming.md#endianness)
 
 
-### [**17: System Programming**](01_Introduction/introduction.md)
+### [**17: System Programming**](./17_System_programming/system_programming.md)
 
-- [**Interprocess Communication (IPC)**](01_Introduction/introduction.md)
-- [**Signal Handling**](01_Introduction/introduction.md)
-- [**POSIX API and System Calls**](01_Introduction/introduction.md)
+  - [**Interprocess Communication (IPC)**](./17_System_programming/system_programming.md#interprocess-communication-ipc)
+  - [**Signal Handling**](./17_System_programming/system_programming.md#signal-handling)
+  - [**POSIX API and System Calls**](./17_System_programming/system_programming.md#posix-api-and-system-calls)
 
 
 ### [**18: Security in C Programming**](01_Introduction/introduction.md)
