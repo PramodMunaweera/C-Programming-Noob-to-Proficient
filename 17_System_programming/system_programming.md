@@ -1,4 +1,4 @@
-[**🏠 Home**](../README.md) | [**◀️ Low-Level Programming**](../16_Low_level_programming/low_level_programming.md) | [**Networking ▶️**](../15_Networking/networking.md)
+[**🏠 Home**](../README.md) | [**◀️ Low-Level Programming**](../16_Low_level_programming/low_level_programming.md) | [**Security in C Programming ▶️**](../18_Security_in_c_programming/security_in_c_programming.md)
 
 
 
@@ -379,4 +379,4 @@ System programming requires a strong grasp of OS internals, IPC, signal handling
 
 
 
-[**🏠 Home**](../README.md) | [**◀️ Low-Level Programming**](../16_Low_level_programming/low_level_programming.md) | [**Networking ▶️**](../15_Networking/networking.md)
+[**🏠 Home**](../README.md) | [**◀️ Low-Level Programming**](../16_Low_level_programming/low_level_programming.md) | [**Security in C Programming ▶️**](../18_Security_in_c_programming/security_in_c_programming.md)
