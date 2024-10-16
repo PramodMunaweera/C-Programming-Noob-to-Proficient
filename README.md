@@ -9,9 +9,7 @@ Welcome to "C Programming: Noob to Proficient"! This comprehensive course is des
 
 This is kind of my learning diary, where I am compiling a series of lessons that bring together all the knowledge I have acquired from various scattered sources, including books, articles, websites, YouTube videos, and more. My goal is to create a comprehensive course that consolidates this information, making it easier for others to access and learn from as they progress in their journey of learning the C language—from the basics to a level where they can confidently use it to build real software. Hope this helps🙂
 
-<div align="center">
-  <img src="res/img/wip.png" alt="Logo">
-</div>
+
 
 ## **📑 Contents**
 
@@ -157,6 +155,7 @@ This is kind of my learning diary, where I am compiling a series of lessons that
 
 ### [**18: Security in C Programming**](01_Introduction/introduction.md)
 
-- [**Buffer Overflow Protection**](01_Introduction/introduction.md)
-- [**Secure Coding Practices**](01_Introduction/introduction.md)
-- [**Cryptography**](01_Introduction/introduction.md)
+  - [**Buffer Overflow Protection**](#buffer-overflow-protection)
+  - [**Secure Coding Practices**](#secure-coding-practices)
+  - [**Memory Management and Pointer Safety**](#memory-management-and-pointer-safety)
+  - [**Cryptography**](#cryptography)
