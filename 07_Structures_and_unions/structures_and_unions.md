@@ -279,7 +279,7 @@ The size of the structure will be the sum of its members' sizes (with potential 
 
 ### Bit Fields
 
-Bit fields allow you to specify the number of bits a member of a structure should occupy.
+Bit fields in C are a way to allocate a specific number of bits to a variable within a structure. This is particularly useful when you need to save memory or when you are working with hardware where you need to manipulate individual bits.
 
 Example: [example_bit_fields.c](./src/example_bit_fields.c)
 
@@ -308,6 +308,8 @@ int main() {
 ### Anonymous Structures and Unions
 
 C11 introduced anonymous structures and unions, which allow you to access their members directly.
+
+Since they don't have names, there are used in nested structure or unions.
 
 Example: [example_anonymous_structs.c](./src/example_anonymous_structs.c)
 
