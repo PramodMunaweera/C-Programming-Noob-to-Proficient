@@ -159,3 +159,5 @@ This is kind of my learning diary, where I am compiling a series of lessons that
   - [**Secure Coding Practices**](#secure-coding-practices)
   - [**Memory Management and Pointer Safety**](#memory-management-and-pointer-safety)
   - [**Cryptography**](#cryptography)
+
+<meta name="google-site-verification" content="FcqsK4NYdD4N3kaCAAX2LohJeGkZGrAL8AJpzW0Zpyw" />
